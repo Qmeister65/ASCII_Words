@@ -1,0 +1,7 @@
+PPPPP   L       EEEEEE     A     SSSSS  EEEEEE           IIIII  NNNN    PPPPP   U     U TTTTTTT         W     W  OOOOO  RRRRR   DDDDD   
+P     P L       E         A A   S     S E                  I    N    N  P     P U     U    T            W     W O     O R    R  D    D  
+P     P L       E        A   A  S       E                  I    N    N  P     P U     U    T            W     W O     O R    R  D     D 
+P     P L       EEEEEE  A     A  SSSSS  EEEEEE             I    N    N  P     P U     U    T            W     W O     O RRRRR   D     D 
+PPPPPP  L       E       AAAAAAA       S E                  I    N    N  PPPPPP  U     U    T            W  W  W O     O RR      D     D 
+P       L       E       A     A S     S E                  I    N    N  P       U     U    T            W W W W O     O R R     D    D  
+P       LLLLL   EEEEEEE A     A SSSSSS  EEEEEEE          IIIII  N    N  P        UUUUU     T            WW   WW  OOOOO  R  R    DDDDD   
